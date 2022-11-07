@@ -1,0 +1,4037 @@
+[
+    {
+        "id": "11b4f477a555bc5f5500530b189f5e5f",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2022-11-07T01:22:39Z",
+        "home_team": "Kansas City Chiefs",
+        "away_team": "Tennessee Titans",
+        "bookmakers": [
+            {
+                "key": "sugarhouse",
+                "title": "SugarHouse",
+                "last_update": "2022-11-07T01:39:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": -670
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": 430
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-11-07T01:39:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": -835
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": 510
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": -835
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": 510
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "William Hill (US)",
+                "last_update": "2022-11-07T01:39:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": -550
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": 400
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2022-11-07T01:40:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": -650
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": 420
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-11-07T01:40:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": -650
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": 450
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2022-11-07T01:39:26Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": -625
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": 450
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": -700
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": 425
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": -1000
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": 575
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair",
+                "title": "Betfair",
+                "last_update": "2022-11-07T01:40:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": -909
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": 660
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "outcomes": [
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": -714
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": 1000
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2022-11-07T01:39:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": -550
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": 400
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "circasports",
+                "title": "Circa Sports",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": -667
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": 491
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "gtbets",
+                "title": "GTbets",
+                "last_update": "2022-11-07T01:40:03Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": -765
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": 464
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "twinspires",
+                "title": "TwinSpires",
+                "last_update": "2022-11-07T01:40:00Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": -835
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": 510
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "foxbet",
+                "title": "FOX Bet",
+                "last_update": "2022-11-07T01:40:21Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": -714
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": 400
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "834aeb82cb4e4c5c6de2603b98a55206",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2022-11-08T01:15:00Z",
+        "home_team": "New Orleans Saints",
+        "away_team": "Baltimore Ravens",
+        "bookmakers": [
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2022-11-07T01:40:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Ravens",
+                                "price": -127
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 107
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2022-11-07T01:40:03Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Ravens",
+                                "price": -128
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 106
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "wynnbet",
+                "title": "WynnBET",
+                "last_update": "2022-11-07T01:40:03Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Ravens",
+                                "price": -125
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 105
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sugarhouse",
+                "title": "SugarHouse",
+                "last_update": "2022-11-07T01:39:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Ravens",
+                                "price": -122
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 108
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-11-07T01:39:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Ravens",
+                                "price": -124
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 102
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "superbook",
+                "title": "SuperBook",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Ravens",
+                                "price": -125
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 105
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Ravens",
+                                "price": -124
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 102
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2022-11-07T01:39:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Ravens",
+                                "price": -122
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 108
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "William Hill (US)",
+                "last_update": "2022-11-07T01:39:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Ravens",
+                                "price": -120
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2022-11-07T01:40:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Ravens",
+                                "price": -126
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 108
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-11-07T01:40:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Ravens",
+                                "price": -125
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 105
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Ravens",
+                                "price": -130
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 110
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Ravens",
+                                "price": -124
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 102
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair",
+                "title": "Betfair",
+                "last_update": "2022-11-07T01:40:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Ravens",
+                                "price": -114
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 112
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Ravens",
+                                "price": -111
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 114
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2022-11-07T01:39:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Ravens",
+                                "price": -130
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 110
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "circasports",
+                "title": "Circa Sports",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Ravens",
+                                "price": -121
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 102
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "gtbets",
+                "title": "GTbets",
+                "last_update": "2022-11-07T01:40:03Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Ravens",
+                                "price": -125
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 105
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2022-11-07T01:39:26Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Ravens",
+                                "price": -115
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "twinspires",
+                "title": "TwinSpires",
+                "last_update": "2022-11-07T01:40:00Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Ravens",
+                                "price": -124
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 102
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "foxbet",
+                "title": "FOX Bet",
+                "last_update": "2022-11-07T01:40:21Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Ravens",
+                                "price": -125
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": "2022-11-07T01:39:44Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Ravens",
+                                "price": -130
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 110
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "intertops",
+                "title": "Intertops",
+                "last_update": "2022-11-07T01:40:03Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Ravens",
+                                "price": -130
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 110
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "dd028b4da19e4bbee6221484c6e32cd7",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2022-11-11T01:15:00Z",
+        "home_team": "Carolina Panthers",
+        "away_team": "Atlanta Falcons",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2022-11-07T01:40:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Falcons",
+                                "price": -142
+                            },
+                            {
+                                "name": "Carolina Panthers",
+                                "price": 120
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-11-07T01:39:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Falcons",
+                                "price": -132
+                            },
+                            {
+                                "name": "Carolina Panthers",
+                                "price": 108
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "William Hill (US)",
+                "last_update": "2022-11-07T01:39:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Falcons",
+                                "price": -135
+                            },
+                            {
+                                "name": "Carolina Panthers",
+                                "price": 115
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sugarhouse",
+                "title": "SugarHouse",
+                "last_update": "2022-11-07T01:39:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Falcons",
+                                "price": -132
+                            },
+                            {
+                                "name": "Carolina Panthers",
+                                "price": 108
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "twinspires",
+                "title": "TwinSpires",
+                "last_update": "2022-11-07T01:40:00Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Falcons",
+                                "price": -132
+                            },
+                            {
+                                "name": "Carolina Panthers",
+                                "price": 108
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-11-07T01:40:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Falcons",
+                                "price": -125
+                            },
+                            {
+                                "name": "Carolina Panthers",
+                                "price": 105
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2022-11-07T01:39:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Falcons",
+                                "price": -132
+                            },
+                            {
+                                "name": "Carolina Panthers",
+                                "price": 108
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Falcons",
+                                "price": -132
+                            },
+                            {
+                                "name": "Carolina Panthers",
+                                "price": 109
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Falcons",
+                                "price": -132
+                            },
+                            {
+                                "name": "Carolina Panthers",
+                                "price": 108
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2022-11-07T01:39:26Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Falcons",
+                                "price": -130
+                            },
+                            {
+                                "name": "Carolina Panthers",
+                                "price": 110
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair",
+                "title": "Betfair",
+                "last_update": "2022-11-07T01:40:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Falcons",
+                                "price": -133
+                            },
+                            {
+                                "name": "Carolina Panthers",
+                                "price": 124
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Falcons",
+                                "price": -123
+                            },
+                            {
+                                "name": "Carolina Panthers",
+                                "price": 134
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Falcons",
+                                "price": -135
+                            },
+                            {
+                                "name": "Carolina Panthers",
+                                "price": 115
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e8dce84fd844264b94713f2ce384fbcb",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2022-11-13T14:30:00Z",
+        "home_team": "Tampa Bay Buccaneers",
+        "away_team": "Seattle Seahawks",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2022-11-07T01:40:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Seattle Seahawks",
+                                "price": -102
+                            },
+                            {
+                                "name": "Tampa Bay Buccaneers",
+                                "price": -116
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "twinspires",
+                "title": "TwinSpires",
+                "last_update": "2022-11-07T01:40:00Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Seattle Seahawks",
+                                "price": -105
+                            },
+                            {
+                                "name": "Tampa Bay Buccaneers",
+                                "price": -118
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sugarhouse",
+                "title": "SugarHouse",
+                "last_update": "2022-11-07T01:39:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Seattle Seahawks",
+                                "price": -105
+                            },
+                            {
+                                "name": "Tampa Bay Buccaneers",
+                                "price": -118
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-11-07T01:39:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Seattle Seahawks",
+                                "price": -105
+                            },
+                            {
+                                "name": "Tampa Bay Buccaneers",
+                                "price": -118
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2022-11-07T01:39:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Seattle Seahawks",
+                                "price": -105
+                            },
+                            {
+                                "name": "Tampa Bay Buccaneers",
+                                "price": -118
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-11-07T01:40:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Seattle Seahawks",
+                                "price": 100
+                            },
+                            {
+                                "name": "Tampa Bay Buccaneers",
+                                "price": -120
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "William Hill (US)",
+                "last_update": "2022-11-07T01:39:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Seattle Seahawks",
+                                "price": 100
+                            },
+                            {
+                                "name": "Tampa Bay Buccaneers",
+                                "price": -120
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Seattle Seahawks",
+                                "price": -105
+                            },
+                            {
+                                "name": "Tampa Bay Buccaneers",
+                                "price": -118
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2022-11-07T01:39:26Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Seattle Seahawks",
+                                "price": 100
+                            },
+                            {
+                                "name": "Tampa Bay Buccaneers",
+                                "price": -115
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair",
+                "title": "Betfair",
+                "last_update": "2022-11-07T01:40:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Seattle Seahawks",
+                                "price": -101
+                            },
+                            {
+                                "name": "Tampa Bay Buccaneers",
+                                "price": -102
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "outcomes": [
+                            {
+                                "name": "Seattle Seahawks",
+                                "price": 102
+                            },
+                            {
+                                "name": "Tampa Bay Buccaneers",
+                                "price": 102
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "97f9ebd005616e0287299b00e546a819",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2022-11-13T18:00:00Z",
+        "home_team": "Buffalo Bills",
+        "away_team": "Minnesota Vikings",
+        "bookmakers": [
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-11-07T01:39:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Buffalo Bills",
+                                "price": -435
+                            },
+                            {
+                                "name": "Minnesota Vikings",
+                                "price": 330
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-11-07T01:40:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Buffalo Bills",
+                                "price": -340
+                            },
+                            {
+                                "name": "Minnesota Vikings",
+                                "price": 280
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sugarhouse",
+                "title": "SugarHouse",
+                "last_update": "2022-11-07T01:39:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Buffalo Bills",
+                                "price": -435
+                            },
+                            {
+                                "name": "Minnesota Vikings",
+                                "price": 330
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "twinspires",
+                "title": "TwinSpires",
+                "last_update": "2022-11-07T01:40:00Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Buffalo Bills",
+                                "price": -435
+                            },
+                            {
+                                "name": "Minnesota Vikings",
+                                "price": 330
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2022-11-07T01:40:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Buffalo Bills",
+                                "price": -355
+                            },
+                            {
+                                "name": "Minnesota Vikings",
+                                "price": 285
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2022-11-07T01:39:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Buffalo Bills",
+                                "price": -435
+                            },
+                            {
+                                "name": "Minnesota Vikings",
+                                "price": 330
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "William Hill (US)",
+                "last_update": "2022-11-07T01:39:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Buffalo Bills",
+                                "price": -420
+                            },
+                            {
+                                "name": "Minnesota Vikings",
+                                "price": 320
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Buffalo Bills",
+                                "price": -435
+                            },
+                            {
+                                "name": "Minnesota Vikings",
+                                "price": 330
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2022-11-07T01:39:26Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Buffalo Bills",
+                                "price": -400
+                            },
+                            {
+                                "name": "Minnesota Vikings",
+                                "price": 310
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair",
+                "title": "Betfair",
+                "last_update": "2022-11-07T01:40:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Buffalo Bills",
+                                "price": -345
+                            },
+                            {
+                                "name": "Minnesota Vikings",
+                                "price": -10000
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "outcomes": [
+                            {
+                                "name": "Buffalo Bills",
+                                "price": -278
+                            },
+                            {
+                                "name": "Minnesota Vikings",
+                                "price": 350
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Buffalo Bills",
+                                "price": -435
+                            },
+                            {
+                                "name": "Minnesota Vikings",
+                                "price": 325
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a62c2d9f2331d1db1d4acd8a07e05caa",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2022-11-13T18:00:00Z",
+        "home_team": "Chicago Bears",
+        "away_team": "Detroit Lions",
+        "bookmakers": [
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-11-07T01:39:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bears",
+                                "price": -134
+                            },
+                            {
+                                "name": "Detroit Lions",
+                                "price": 110
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2022-11-07T01:39:26Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bears",
+                                "price": -135
+                            },
+                            {
+                                "name": "Detroit Lions",
+                                "price": 115
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-11-07T01:40:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bears",
+                                "price": -140
+                            },
+                            {
+                                "name": "Detroit Lions",
+                                "price": 120
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2022-11-07T01:40:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bears",
+                                "price": -134
+                            },
+                            {
+                                "name": "Detroit Lions",
+                                "price": 114
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sugarhouse",
+                "title": "SugarHouse",
+                "last_update": "2022-11-07T01:39:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bears",
+                                "price": -134
+                            },
+                            {
+                                "name": "Detroit Lions",
+                                "price": 110
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "twinspires",
+                "title": "TwinSpires",
+                "last_update": "2022-11-07T01:40:00Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bears",
+                                "price": -134
+                            },
+                            {
+                                "name": "Detroit Lions",
+                                "price": 110
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2022-11-07T01:39:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bears",
+                                "price": -134
+                            },
+                            {
+                                "name": "Detroit Lions",
+                                "price": 110
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "William Hill (US)",
+                "last_update": "2022-11-07T01:39:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bears",
+                                "price": -130
+                            },
+                            {
+                                "name": "Detroit Lions",
+                                "price": 110
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bears",
+                                "price": -134
+                            },
+                            {
+                                "name": "Detroit Lions",
+                                "price": 110
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair",
+                "title": "Betfair",
+                "last_update": "2022-11-07T01:40:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bears",
+                                "price": -128
+                            },
+                            {
+                                "name": "Detroit Lions",
+                                "price": 116
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bears",
+                                "price": -115
+                            },
+                            {
+                                "name": "Detroit Lions",
+                                "price": 130
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bears",
+                                "price": -135
+                            },
+                            {
+                                "name": "Detroit Lions",
+                                "price": 115
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d2e4c7e39c1fe3cbb4f933c8b2d0fbf2",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2022-11-13T18:00:00Z",
+        "home_team": "Miami Dolphins",
+        "away_team": "Cleveland Browns",
+        "bookmakers": [
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-11-07T01:39:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Browns",
+                                "price": 175
+                            },
+                            {
+                                "name": "Miami Dolphins",
+                                "price": -225
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2022-11-07T01:39:26Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Browns",
+                                "price": 175
+                            },
+                            {
+                                "name": "Miami Dolphins",
+                                "price": -210
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-11-07T01:40:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Browns",
+                                "price": 165
+                            },
+                            {
+                                "name": "Miami Dolphins",
+                                "price": -195
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2022-11-07T01:40:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Browns",
+                                "price": 172
+                            },
+                            {
+                                "name": "Miami Dolphins",
+                                "price": -205
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sugarhouse",
+                "title": "SugarHouse",
+                "last_update": "2022-11-07T01:39:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Browns",
+                                "price": 175
+                            },
+                            {
+                                "name": "Miami Dolphins",
+                                "price": -225
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "twinspires",
+                "title": "TwinSpires",
+                "last_update": "2022-11-07T01:40:00Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Browns",
+                                "price": 175
+                            },
+                            {
+                                "name": "Miami Dolphins",
+                                "price": -225
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2022-11-07T01:39:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Browns",
+                                "price": 175
+                            },
+                            {
+                                "name": "Miami Dolphins",
+                                "price": -225
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "William Hill (US)",
+                "last_update": "2022-11-07T01:39:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Browns",
+                                "price": 175
+                            },
+                            {
+                                "name": "Miami Dolphins",
+                                "price": -210
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Browns",
+                                "price": 175
+                            },
+                            {
+                                "name": "Miami Dolphins",
+                                "price": -225
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair",
+                "title": "Betfair",
+                "last_update": "2022-11-07T01:40:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Browns",
+                                "price": 178
+                            },
+                            {
+                                "name": "Miami Dolphins",
+                                "price": -196
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Browns",
+                                "price": 198
+                            },
+                            {
+                                "name": "Miami Dolphins",
+                                "price": -175
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Browns",
+                                "price": 165
+                            },
+                            {
+                                "name": "Miami Dolphins",
+                                "price": -206
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Browns",
+                                "price": 175
+                            },
+                            {
+                                "name": "Miami Dolphins",
+                                "price": -210
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "92490f29e85c8e40206640dedf667441",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2022-11-13T18:00:00Z",
+        "home_team": "Tennessee Titans",
+        "away_team": "Denver Broncos",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-11-07T01:40:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Denver Broncos",
+                                "price": 110
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": -130
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-11-07T01:39:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Denver Broncos",
+                                "price": 112
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": -136
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "twinspires",
+                "title": "TwinSpires",
+                "last_update": "2022-11-07T01:40:00Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Denver Broncos",
+                                "price": 112
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": -136
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sugarhouse",
+                "title": "SugarHouse",
+                "last_update": "2022-11-07T01:39:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Denver Broncos",
+                                "price": 112
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": -136
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2022-11-07T01:39:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Denver Broncos",
+                                "price": 112
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": -136
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Denver Broncos",
+                                "price": 112
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": -136
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2022-11-07T01:38:34Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Denver Broncos",
+                                "price": 108
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": -131
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7b024b3be1e733850d3297ccb2311aac",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2022-11-13T18:00:00Z",
+        "home_team": "New York Giants",
+        "away_team": "Houston Texans",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2022-11-07T01:40:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Houston Texans",
+                                "price": 240
+                            },
+                            {
+                                "name": "New York Giants",
+                                "price": -295
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-11-07T01:40:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Houston Texans",
+                                "price": 220
+                            },
+                            {
+                                "name": "New York Giants",
+                                "price": -260
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-11-07T01:39:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Houston Texans",
+                                "price": 220
+                            },
+                            {
+                                "name": "New York Giants",
+                                "price": -278
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2022-11-07T01:39:26Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Houston Texans",
+                                "price": 220
+                            },
+                            {
+                                "name": "New York Giants",
+                                "price": -275
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "twinspires",
+                "title": "TwinSpires",
+                "last_update": "2022-11-07T01:40:00Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Houston Texans",
+                                "price": 220
+                            },
+                            {
+                                "name": "New York Giants",
+                                "price": -278
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sugarhouse",
+                "title": "SugarHouse",
+                "last_update": "2022-11-07T01:39:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Houston Texans",
+                                "price": 220
+                            },
+                            {
+                                "name": "New York Giants",
+                                "price": -278
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2022-11-07T01:39:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Houston Texans",
+                                "price": 220
+                            },
+                            {
+                                "name": "New York Giants",
+                                "price": -278
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "William Hill (US)",
+                "last_update": "2022-11-07T01:39:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Houston Texans",
+                                "price": 215
+                            },
+                            {
+                                "name": "New York Giants",
+                                "price": -267
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Houston Texans",
+                                "price": 220
+                            },
+                            {
+                                "name": "New York Giants",
+                                "price": -278
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Houston Texans",
+                                "price": 236
+                            },
+                            {
+                                "name": "New York Giants",
+                                "price": -309
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair",
+                "title": "Betfair",
+                "last_update": "2022-11-07T01:40:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Houston Texans",
+                                "price": 240
+                            },
+                            {
+                                "name": "New York Giants",
+                                "price": -278
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "outcomes": [
+                            {
+                                "name": "Houston Texans",
+                                "price": 280
+                            },
+                            {
+                                "name": "New York Giants",
+                                "price": -238
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Houston Texans",
+                                "price": 220
+                            },
+                            {
+                                "name": "New York Giants",
+                                "price": -270
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0148d027b7cb8dc406855ea91a6b7978",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2022-11-13T18:00:00Z",
+        "home_team": "Kansas City Chiefs",
+        "away_team": "Jacksonville Jaguars",
+        "bookmakers": [
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-11-07T01:39:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Jacksonville Jaguars",
+                                "price": 340
+                            },
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": -455
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-11-07T01:40:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Jacksonville Jaguars",
+                                "price": 340
+                            },
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": -425
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2022-11-07T01:27:08Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Jacksonville Jaguars",
+                                "price": 350
+                            },
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": -450
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sugarhouse",
+                "title": "SugarHouse",
+                "last_update": "2022-11-07T01:39:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Jacksonville Jaguars",
+                                "price": 340
+                            },
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": -455
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "twinspires",
+                "title": "TwinSpires",
+                "last_update": "2022-11-07T01:40:00Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Jacksonville Jaguars",
+                                "price": 340
+                            },
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": -455
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2022-11-07T01:39:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Jacksonville Jaguars",
+                                "price": 340
+                            },
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": -455
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Jacksonville Jaguars",
+                                "price": 340
+                            },
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": -455
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair",
+                "title": "Betfair",
+                "last_update": "2022-11-07T01:27:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Jacksonville Jaguars",
+                                "price": -10000
+                            },
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": -435
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "outcomes": [
+                            {
+                                "name": "Jacksonville Jaguars",
+                                "price": 440
+                            },
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": -323
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "27c35e3d77cd2d04f67575352f6aea37",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2022-11-13T18:00:00Z",
+        "home_team": "Pittsburgh Steelers",
+        "away_team": "New Orleans Saints",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2022-11-07T01:40:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "New Orleans Saints",
+                                "price": -148
+                            },
+                            {
+                                "name": "Pittsburgh Steelers",
+                                "price": 126
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-11-07T01:40:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "New Orleans Saints",
+                                "price": -145
+                            },
+                            {
+                                "name": "Pittsburgh Steelers",
+                                "price": 125
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-11-07T01:39:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "New Orleans Saints",
+                                "price": -143
+                            },
+                            {
+                                "name": "Pittsburgh Steelers",
+                                "price": 118
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "twinspires",
+                "title": "TwinSpires",
+                "last_update": "2022-11-07T01:40:00Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "New Orleans Saints",
+                                "price": -143
+                            },
+                            {
+                                "name": "Pittsburgh Steelers",
+                                "price": 118
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sugarhouse",
+                "title": "SugarHouse",
+                "last_update": "2022-11-07T01:39:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "New Orleans Saints",
+                                "price": -143
+                            },
+                            {
+                                "name": "Pittsburgh Steelers",
+                                "price": 118
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2022-11-07T01:39:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "New Orleans Saints",
+                                "price": -143
+                            },
+                            {
+                                "name": "Pittsburgh Steelers",
+                                "price": 118
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "William Hill (US)",
+                "last_update": "2022-11-07T01:39:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "New Orleans Saints",
+                                "price": -145
+                            },
+                            {
+                                "name": "Pittsburgh Steelers",
+                                "price": 122
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "New Orleans Saints",
+                                "price": -143
+                            },
+                            {
+                                "name": "Pittsburgh Steelers",
+                                "price": 118
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "New Orleans Saints",
+                                "price": -147
+                            },
+                            {
+                                "name": "Pittsburgh Steelers",
+                                "price": 120
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair",
+                "title": "Betfair",
+                "last_update": "2022-11-07T01:40:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "New Orleans Saints",
+                                "price": -143
+                            },
+                            {
+                                "name": "Pittsburgh Steelers",
+                                "price": 128
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "outcomes": [
+                            {
+                                "name": "New Orleans Saints",
+                                "price": -127
+                            },
+                            {
+                                "name": "Pittsburgh Steelers",
+                                "price": 144
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "73ff0a347489c3e14ef1edf087e5262c",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2022-11-13T21:05:00Z",
+        "home_team": "Las Vegas Raiders",
+        "away_team": "Indianapolis Colts",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2022-11-07T01:40:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Indianapolis Colts",
+                                "price": 190
+                            },
+                            {
+                                "name": "Las Vegas Raiders",
+                                "price": -230
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-11-07T01:39:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Indianapolis Colts",
+                                "price": 185
+                            },
+                            {
+                                "name": "Las Vegas Raiders",
+                                "price": -230
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-11-07T01:40:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Indianapolis Colts",
+                                "price": 195
+                            },
+                            {
+                                "name": "Las Vegas Raiders",
+                                "price": -230
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "twinspires",
+                "title": "TwinSpires",
+                "last_update": "2022-11-07T01:40:00Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Indianapolis Colts",
+                                "price": 185
+                            },
+                            {
+                                "name": "Las Vegas Raiders",
+                                "price": -230
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sugarhouse",
+                "title": "SugarHouse",
+                "last_update": "2022-11-07T01:39:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Indianapolis Colts",
+                                "price": 185
+                            },
+                            {
+                                "name": "Las Vegas Raiders",
+                                "price": -230
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2022-11-07T01:39:26Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Indianapolis Colts",
+                                "price": 190
+                            },
+                            {
+                                "name": "Las Vegas Raiders",
+                                "price": -240
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2022-11-07T01:39:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Indianapolis Colts",
+                                "price": 185
+                            },
+                            {
+                                "name": "Las Vegas Raiders",
+                                "price": -230
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "William Hill (US)",
+                "last_update": "2022-11-07T01:39:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Indianapolis Colts",
+                                "price": 185
+                            },
+                            {
+                                "name": "Las Vegas Raiders",
+                                "price": -225
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Indianapolis Colts",
+                                "price": 185
+                            },
+                            {
+                                "name": "Las Vegas Raiders",
+                                "price": -230
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair",
+                "title": "Betfair",
+                "last_update": "2022-11-07T01:40:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Indianapolis Colts",
+                                "price": 196
+                            },
+                            {
+                                "name": "Las Vegas Raiders",
+                                "price": -222
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "outcomes": [
+                            {
+                                "name": "Indianapolis Colts",
+                                "price": 225
+                            },
+                            {
+                                "name": "Las Vegas Raiders",
+                                "price": -192
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Indianapolis Colts",
+                                "price": 190
+                            },
+                            {
+                                "name": "Las Vegas Raiders",
+                                "price": -230
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "dc14776bbc570877bb13425bd8c4db0a",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2022-11-13T21:25:00Z",
+        "home_team": "Los Angeles Rams",
+        "away_team": "Arizona Cardinals",
+        "bookmakers": [
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2022-11-07T01:39:26Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Arizona Cardinals",
+                                "price": 150
+                            },
+                            {
+                                "name": "Los Angeles Rams",
+                                "price": -180
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Arizona Cardinals",
+                                "price": 150
+                            },
+                            {
+                                "name": "Los Angeles Rams",
+                                "price": -195
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-11-07T01:39:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Arizona Cardinals",
+                                "price": 150
+                            },
+                            {
+                                "name": "Los Angeles Rams",
+                                "price": -195
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sugarhouse",
+                "title": "SugarHouse",
+                "last_update": "2022-11-07T01:39:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Arizona Cardinals",
+                                "price": 160
+                            },
+                            {
+                                "name": "Los Angeles Rams",
+                                "price": -195
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2022-11-07T01:40:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Arizona Cardinals",
+                                "price": 158
+                            },
+                            {
+                                "name": "Los Angeles Rams",
+                                "price": -188
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "twinspires",
+                "title": "TwinSpires",
+                "last_update": "2022-11-07T01:40:00Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Arizona Cardinals",
+                                "price": 150
+                            },
+                            {
+                                "name": "Los Angeles Rams",
+                                "price": -195
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-11-07T01:40:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Arizona Cardinals",
+                                "price": 160
+                            },
+                            {
+                                "name": "Los Angeles Rams",
+                                "price": -190
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2022-11-07T01:39:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Arizona Cardinals",
+                                "price": 160
+                            },
+                            {
+                                "name": "Los Angeles Rams",
+                                "price": -195
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "William Hill (US)",
+                "last_update": "2022-11-07T01:39:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Arizona Cardinals",
+                                "price": 158
+                            },
+                            {
+                                "name": "Los Angeles Rams",
+                                "price": -190
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair",
+                "title": "Betfair",
+                "last_update": "2022-11-07T01:40:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Arizona Cardinals",
+                                "price": 162
+                            },
+                            {
+                                "name": "Los Angeles Rams",
+                                "price": -179
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "outcomes": [
+                            {
+                                "name": "Arizona Cardinals",
+                                "price": 180
+                            },
+                            {
+                                "name": "Los Angeles Rams",
+                                "price": -161
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Arizona Cardinals",
+                                "price": 165
+                            },
+                            {
+                                "name": "Los Angeles Rams",
+                                "price": -195
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "49b82cfa8d543643cf2b5d5109afa7be",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2022-11-13T21:25:00Z",
+        "home_team": "Green Bay Packers",
+        "away_team": "Dallas Cowboys",
+        "bookmakers": [
+            {
+                "key": "williamhill_us",
+                "title": "William Hill (US)",
+                "last_update": "2022-11-07T01:39:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Cowboys",
+                                "price": -220
+                            },
+                            {
+                                "name": "Green Bay Packers",
+                                "price": 180
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-11-07T01:40:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Cowboys",
+                                "price": -205
+                            },
+                            {
+                                "name": "Green Bay Packers",
+                                "price": 175
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-11-07T01:39:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Cowboys",
+                                "price": -210
+                            },
+                            {
+                                "name": "Green Bay Packers",
+                                "price": 170
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Cowboys",
+                                "price": -210
+                            },
+                            {
+                                "name": "Green Bay Packers",
+                                "price": 170
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2022-11-07T01:40:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Cowboys",
+                                "price": -215
+                            },
+                            {
+                                "name": "Green Bay Packers",
+                                "price": 180
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "twinspires",
+                "title": "TwinSpires",
+                "last_update": "2022-11-07T01:40:00Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Cowboys",
+                                "price": -210
+                            },
+                            {
+                                "name": "Green Bay Packers",
+                                "price": 170
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sugarhouse",
+                "title": "SugarHouse",
+                "last_update": "2022-11-07T01:39:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Cowboys",
+                                "price": -210
+                            },
+                            {
+                                "name": "Green Bay Packers",
+                                "price": 170
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2022-11-07T01:39:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Cowboys",
+                                "price": -210
+                            },
+                            {
+                                "name": "Green Bay Packers",
+                                "price": 170
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2022-11-07T01:39:26Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Cowboys",
+                                "price": -210
+                            },
+                            {
+                                "name": "Green Bay Packers",
+                                "price": 175
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair",
+                "title": "Betfair",
+                "last_update": "2022-11-07T01:40:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Cowboys",
+                                "price": -204
+                            },
+                            {
+                                "name": "Green Bay Packers",
+                                "price": 184
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Cowboys",
+                                "price": -185
+                            },
+                            {
+                                "name": "Green Bay Packers",
+                                "price": 205
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Cowboys",
+                                "price": -234
+                            },
+                            {
+                                "name": "Green Bay Packers",
+                                "price": 186
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Cowboys",
+                                "price": -220
+                            },
+                            {
+                                "name": "Green Bay Packers",
+                                "price": 180
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "04b8e0aa7595d6a8497456b3144ae859",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2022-11-14T01:20:00Z",
+        "home_team": "San Francisco 49ers",
+        "away_team": "Los Angeles Chargers",
+        "bookmakers": [
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-11-07T01:39:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Chargers",
+                                "price": 220
+                            },
+                            {
+                                "name": "San Francisco 49ers",
+                                "price": -278
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair",
+                "title": "Betfair",
+                "last_update": "2022-11-07T01:40:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Chargers",
+                                "price": 240
+                            },
+                            {
+                                "name": "San Francisco 49ers",
+                                "price": -270
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Chargers",
+                                "price": 275
+                            },
+                            {
+                                "name": "San Francisco 49ers",
+                                "price": -238
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "twinspires",
+                "title": "TwinSpires",
+                "last_update": "2022-11-07T01:40:00Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Chargers",
+                                "price": 220
+                            },
+                            {
+                                "name": "San Francisco 49ers",
+                                "price": -278
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2022-11-07T01:40:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Chargers",
+                                "price": 230
+                            },
+                            {
+                                "name": "San Francisco 49ers",
+                                "price": -280
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sugarhouse",
+                "title": "SugarHouse",
+                "last_update": "2022-11-07T01:39:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Chargers",
+                                "price": 220
+                            },
+                            {
+                                "name": "San Francisco 49ers",
+                                "price": -278
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2022-11-07T01:39:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Chargers",
+                                "price": 220
+                            },
+                            {
+                                "name": "San Francisco 49ers",
+                                "price": -278
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pointsbetus",
+                "title": "PointsBet (US)",
+                "last_update": "2022-11-07T01:39:26Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Chargers",
+                                "price": 210
+                            },
+                            {
+                                "name": "San Francisco 49ers",
+                                "price": -250
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Chargers",
+                                "price": 220
+                            },
+                            {
+                                "name": "San Francisco 49ers",
+                                "price": -278
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "William Hill (US)",
+                "last_update": "2022-11-07T01:39:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Chargers",
+                                "price": 185
+                            },
+                            {
+                                "name": "San Francisco 49ers",
+                                "price": -225
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Chargers",
+                                "price": 195
+                            },
+                            {
+                                "name": "San Francisco 49ers",
+                                "price": -235
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e4cb60c1cd96813bbf67450007cb2a10",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2022-11-15T01:15:00Z",
+        "home_team": "Philadelphia Eagles",
+        "away_team": "Washington Commanders",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2022-11-07T01:40:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Philadelphia Eagles",
+                                "price": -490
+                            },
+                            {
+                                "name": "Washington Commanders",
+                                "price": 380
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-11-07T01:40:15Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Philadelphia Eagles",
+                                "price": -490
+                            },
+                            {
+                                "name": "Washington Commanders",
+                                "price": 390
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-11-07T01:39:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Philadelphia Eagles",
+                                "price": -500
+                            },
+                            {
+                                "name": "Washington Commanders",
+                                "price": 375
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sugarhouse",
+                "title": "SugarHouse",
+                "last_update": "2022-11-07T01:39:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Philadelphia Eagles",
+                                "price": -500
+                            },
+                            {
+                                "name": "Washington Commanders",
+                                "price": 375
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "twinspires",
+                "title": "TwinSpires",
+                "last_update": "2022-11-07T01:40:00Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Philadelphia Eagles",
+                                "price": -500
+                            },
+                            {
+                                "name": "Washington Commanders",
+                                "price": 375
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2022-11-07T01:39:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Philadelphia Eagles",
+                                "price": -500
+                            },
+                            {
+                                "name": "Washington Commanders",
+                                "price": 375
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair",
+                "title": "Betfair",
+                "last_update": "2022-11-07T01:40:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Philadelphia Eagles",
+                                "price": -476
+                            },
+                            {
+                                "name": "Washington Commanders",
+                                "price": 410
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "outcomes": [
+                            {
+                                "name": "Philadelphia Eagles",
+                                "price": -400
+                            },
+                            {
+                                "name": "Washington Commanders",
+                                "price": 480
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "William Hill (US)",
+                "last_update": "2022-11-07T01:39:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Philadelphia Eagles",
+                                "price": -550
+                            },
+                            {
+                                "name": "Washington Commanders",
+                                "price": 400
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_us",
+                "title": "Unibet",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Philadelphia Eagles",
+                                "price": -500
+                            },
+                            {
+                                "name": "Washington Commanders",
+                                "price": 375
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2022-11-07T01:40:04Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Philadelphia Eagles",
+                                "price": -525
+                            },
+                            {
+                                "name": "Washington Commanders",
+                                "price": 375
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
